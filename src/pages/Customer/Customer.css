@@ -1,0 +1,11 @@
+.logo
+{
+    max-width: 100px;
+    margin: 20px auto;
+}
+#home-page{
+    background-color: #fff;
+}
+.logo ion-button{
+    background-color: none;
+}
